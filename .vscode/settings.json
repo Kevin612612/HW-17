@@ -1,0 +1,20 @@
+{
+    "workbench.colorTheme": "Webstorm IntelliJ Darcula Theme",
+    "workbench.editor.decorations.colors": true,
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "workbench.editor.enablePreview": true,
+    "cSpell.words": [
+        "accesstoken",
+        "cqrs",
+        "dbconfig",
+        "depcruise",
+        "maxlength",
+        "nestjs",
+        "refreshtoken",
+        "refreshtokens",
+        "Streamable",
+        "typeorm",
+        "unban",
+        "uuidv"
+    ]
+}
